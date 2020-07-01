@@ -115,6 +115,10 @@ vendor.display.disable_skip_validate=1 \
 vendor.display.enable_default_color_mode=0 \
 vendor.gralloc.enable_fb_ubwc=1
 
+#Dolby Digital Plus
+PRODUCT_PROPERTY_OVERRIDES += \
+sys.keep_app_1=com.dolby.ds1appUI
+
 # Rendering
 PRODUCT_PROPERTY_OVERRIDES += \
 debug.sf.disable_hwc=0 \
