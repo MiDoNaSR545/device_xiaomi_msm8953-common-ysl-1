@@ -149,6 +149,11 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-service \
     android.hardware.drm@1.2-service.clearkey
 
+# Dolby Digital Plus
+PRODUCT_PACKAGES += \
+	Ds 
+	DsUI
+
 # Ebtables
 PRODUCT_PACKAGES += \
     ebtables \
