@@ -1,0 +1,18 @@
+[
+ {
+   "repository": "android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings"
+ }
+ {
+   "repository": "Corvus-Devices/vendor_xiaomi_ysl",
+   "target_path": "vendor/xiaomi/ysl"
+   "branch": "corvus",
+   "remote": "github" 
+ },
+ {
+   "repository": "Corvus-Devices/kernel_xiaomi_msm8953-ysl",
+   "target_path": "kernel/xiaomi/msm8917"
+   "branch": "Miku",
+   "remote": "github" 
+ },
+]
