@@ -159,7 +159,7 @@ PRODUCT_PACKAGES += \
 
 # Dolby Digital Plus
 PRODUCT_PACKAGES += \
-	Ds 
+	Ds \
 	DsUI
 
 # Ebtables
