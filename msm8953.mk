@@ -415,3 +415,7 @@ PRODUCT_PACKAGES += \
 #GCam Go
 PRODUCT_PACKAGES += \
     GCam
+
+# Via
+PRODUCT_PACKAGES += \
+    Via
