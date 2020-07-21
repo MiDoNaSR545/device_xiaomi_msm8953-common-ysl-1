@@ -3,25 +3,4 @@
    "repository": "android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings"
  },
- 
- {
-   "repository": "Corvus-Devices/vendor_xiaomi_ysl",
-   "target_path": "vendor/xiaomi/ysl"
-   "branch": "corvus",
-   "remote": "github" 
- },
- 
- {
-   "repository": "Hatsune71/kernel_msm8953-64",
-   "target_path": "kernel/xiaomi/msm8953"
-   "branch": "Mikasa",
-   "remote": "github" 
- },
- 
- {
-   "repository": "mahajant99/ysl-4.9",
-   "target_path": "device/xiaomi/ysl"
-   "branch": "Corvus",
-   "remote": "github" 
- },
 ]
